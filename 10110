@@ -1,0 +1,239 @@
+<h1></h1><!doctype html>
+<html>
+<head>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45692728-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-45692728-1');
+</script>
+
+<script>
+var ua = navigator.userAgent;
+
+if(navigator.userAgent.match(/(iPhone|iPod|Android.*Mobile)/i)){
+// スマホ（iPhone・Androidスマホ）の場合の処理を記述
+}else{
+// PC・タブレットの場合の処理を記述
+location.href = "pc.html";
+}
+
+</script>
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>映画『STAND BY ME ドラえもん 2』公式サイト</title>
+
+<link rel="canonical" href="https://doraemon-3d.com">
+
+<!--usetAgent-->
+<meta name="viewport" content="width=device-width">
+
+<meta name="copyright" content="&copy; Fujiko Pro / 2020 STAND BY ME Doraemon 2 Film Partners">
+<meta name="Description" content="ドラえもん50周年記念作品">
+<meta name="Keywords" lang="ja" content="映画,映画ドラえもん,ドラえもん,藤子・F・不二雄,3DCG,山崎貴,八木竜一,水田わさび,大原めぐみ,かかずゆみ,木村昴,関智一,宮本信子,妻夫木聡,バカリズム,羽鳥慎一,菅田将暉,石崎ひゅーい">
+<link rel="apple-touch-icon" href="https://doraemon-3d.com/images_common/apple-touch-icon.png">
+
+<!--Twitter-->
+<meta name="twitter:card" content="summary_large_image">
+
+<!--Facebook-->
+<meta property="og:title" content="映画『STAND BY ME ドラえもん 2』公式サイト">
+<meta property="og:type" content="movie">
+<meta property="og:description" content="ドラえもん50周年記念作品">
+<meta property="og:url" content="https://doraemon-3d.com/">
+<meta property="og:image" content="https://doraemon-3d.com/images_common/og2.png">
+<meta property="og:site_name" content="映画『STAND BY ME ドラえもん 2』公式サイト">
+
+<!--jquery-->
+<script type="text/javascript" src="library/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="library/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="library/TweenMax.min.js"></script>
+<!--script type="text/javascript" src="library/modaal.js"></script>
+<script type="text/javascript" src="library/jquery.scrollmagic.min.js"></script>
+<link rel="stylesheet" href="library/modaal.css" media="screen"-->
+
+<!--さわらび明朝
+<link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">-->
+
+<!--各ページ用-->
+
+<script type = "text/javascript">
+<!--
+//ランダム
+var dd = new Date();
+var rndNum = dd.getTime();
+document.write('<script type="text/javascript" src="assets1007/common_hdr.js?' + rndNum + '"></script>');
+//-->
+</script>
+
+<script type="text/javascript" src="assets1007/common.js"></script>
+<link rel="stylesheet" href="assets1007/common.css?1007" media="screen">
+
+<script type="text/javascript" src="assets1007/index.js"></script>
+<link rel="stylesheet" href="assets1007/index.css?1113" media="screen">
+
+<script>
+var ua = navigator.userAgent;
+if(ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || (ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0) || (ua.indexOf('Android') > 0 && ua.indexOf('Opera Mini') > 0) || (ua.indexOf('Android') > 0 && ua.indexOf('Opera Mobile') > 0)) {
+//スマホ
+}else if(ua.indexOf('iPad') > 0 || ua.indexOf('Android') > 0){
+//タブレット
+document.write('<link rel="stylesheet" href="assets0727/index_tab.css" media="screen">');
+}
+</script>
+
+</head>
+
+<body id="home">
+
+<!--↓↓↓各ページ共通↓↓↓-->
+<div id="loaderWrap">
+<div class="loading">
+  <span>●</span>
+  <span>●</span>
+  <span>●</span>
+</div>
+</div>
+
+<div id="pageMoveFade"></div>
+
+
+
+
+<!--↑↑↑各ページ共通↑↑↑-->
+
+<!--OP_START-->
+<div id="opWrap">
+<script>
+var dd = new Date();
+var rndNum = dd.getTime();
+document.write('<img id="op50" src="images_common/mark50.gif?'+rndNum+'" alt="" id="opGIF">');
+</script>
+</div>
+<!--OP_END-->
+
+<div id="opWhite"></div>
+
+
+<a href="#" class="ctsMove" id="ptWrap">
+<img src="images_common/ftr_up.png" alt=""/>
+</a>
+
+<!--白地部分-->
+<article id="topMain">
+
+<header>
+
+<div id="menuSPicon" class="close">
+<div id="menuSPbg"></div>
+<img id="bou1" src="images_common/spmenu_bou.png" alt=""/>
+<img id="bou2" src="images_common/spmenu_bou.png" alt=""/>
+</div>
+
+<!--ヘッダメニュー-->
+<script type = "text/javascript">
+topSPheader();
+</script>
+
+<img id="mark50th" src="images_common/mark50th.png" alt="ドラえもん50周年記念作品"/>
+
+<div id="shareWrap">
+<img class="share" src="images_common/share.png" alt="SHARE">
+<a class="share fade" href="https://twitter.com/share?text=%E6%98%A0%E7%94%BB%E3%80%8ESTAND+BY+ME+%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93+2%E3%80%8F%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88&hashtags=SBM%E3%83%89%E3%83%A92&url=https://doraemon-3d.com/" target="_blank"><img src="images_common/share_tw.png" alt="Twitter"></a>
+<a class="share fade" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoraemon-3d.com%2F" target="_blank"><img src="images_common/share_fb.png" alt="Facebook"></a>
+<a class="share fade" href="https://line.me/R/msg/text/?https://doraemon-3d.com/" target="_blank"><img src="images_common/share_ln.png" alt="LINE"></a>
+</div>
+
+</header>
+
+<div id="main">
+<img id="mainCatch" class="blur" src="images_common/main_sp_catch.png" alt=""/>
+<img id="mainChara" class="charaMove" src="images_common/main_sp_chara.png" alt=""/>
+<img id="mainDate" src="images_common/main_sp_date2.png" alt=""/>
+<img id="mainLogo" src="images_common/main_sp_logo.png" alt=""/>
+</div>
+
+</article>
+
+
+<!--青地部分-->
+<article id="topCts">
+
+<iframe id="yt" src="video/trailer.mp4" frameborder="0" allowfullscreen></iframe>
+
+<div id="spWrap" class="wrap">
+<a href="kansou/" class="fade newDate pageMove" data-date="2020-12-04" title="各界の皆様からの感想コメント"><img src="images_common/spbnr_kansou2.png" alt="各界の皆様からの感想コメント"/></a>
+<a href="https://dora-world.com/contents/1677" target="_blank" class="fade newDate" data-date="2020-11-20" title="感想投稿キャンペーン"><img src="images_common/spbnr_kansou.png" alt="感想投稿キャンペーン"/></a>
+<a href="https://static.multi.vsp.mb.softbank.jp/arsquare/feature/standbyme2/" target="_blank" class="fade newDate" data-date="2020-11-20" title="ARフォトフレーム"><img src="images_common/spbnr_ar_frame.png" alt="ARフォトフレーム"/></a>
+</div>
+
+<div id="newsWrap">
+<img src="images_common/news.png" alt="ニュース"/>
+<div id="newsBG">
+<a href="news/#news210205_1" class="fade newDate pageMove" data-date="2021-02-05"><span>2021.2.5</span>メディア露出情報（2月8日～2月14日）</a>
+<hr>
+<a href="news/#news201215_1" class="fade newDate pageMove" data-date="2020-12-15"><span>2020.12.15</span>パルコの半期に一度の大セールは映画『STAND BY ME ドラえもん 2』タイアップ！「PARCO ドランバザール」開催！</a>
+<hr>
+<a href="movie/#tvcm" class="fade newDate pageMove" data-date="2020-12-02"><span>2020.12.2</span>新作TVCMを追加！</a>
+<a href="news/" class="fade pageMove" id="morebtn"><img src="images_common/news_more.png" alt="MORE"/></a>
+</div>
+</div>
+
+<!--メインメニュー-->
+<script type = "text/javascript">
+topSPmenu();
+</script>
+
+<img id="billing" class="wrap" src="images_common/billing.png" alt=""/>
+
+<div id="snsWrap" class="wrap">
+<a class="fade" href="https://twitter.com/doraemonChannel" target="_blank"><img src="images_common/sns_tw.png" alt=""/></a>
+<a class="fade" href="https://www.facebook.com/doraemon.ch" target="_blank"><img src="images_common/sns_fb.png?10110" alt=""/></a>
+<a class="fade" href="http://line.naver.jp/ti/p/%40fujiko-pro" target="_blank"><img src="images_common/sns_ln.png" alt=""/></a>
+<a class="fade" href="https://www.youtube.com/user/DoraemonTheMovie" target="_blank"><img src="images_common/sns_yt.png" alt=""/></a>
+<a class="fade" href="https://www.instagram.com/dorachan_official/" target="_blank"><img src="images_common/sns_in.png" alt=""/></a>
+</div>
+
+<div id="tohoWrap" class="wrap">
+<a class="fade" href="https://theater.toho.co.jp/toho_theaterlist/doraemon-3d-2.html" target="_blank"><img src="images_common/barrierfree.png" alt="本作品はHELLO! MOVIE方式による音声ガイド・日本語字幕に対応しています"/></a>
+</div>
+<!--
+<div id="linksWrap" class="wrap">
+<a class="fade" href="https://dora-world.com" target="_blank"><img src="images1007/linkbnr_dch.png" alt="ドラえもん公式サイト「ドラえもんチャンネル」"/></a>
+<a class="fade" href="https://www.tv-asahi.co.jp/doraemon/" target="_blank"><img src="images1007/linkbnr_tvasahi.jpg" alt="テレビアニメ「ドラえもん」公式サイト"/></a>
+<a class="fade" href="http://fujiko-museum.com" target="_blank"><img src="images1007/linkbnr_fmuseum.png" alt="「川崎市 藤子・F・不二雄ミュージアム」公式サイト"/></a>
+<a class="fade" href="https://line.naver.jp/ti/p/%40fujiko-pro" target="_blank"><img src="images1007/linkbnr_fujikoline.png" alt="藤子プロ 公式LINEアカウント"/></a>
+</div>
+-->
+
+<a id="go1st" class="fade" href="1/" target="_blank" title="映画『STAND BY ME ドラえもん』公式サイト"><img src="images_common/go_sbm1.png" alt="映画『STAND BY ME ドラえもん』公式サイト"/></a>
+
+<!--↓↓↓各ページ共通↓↓↓-->
+<footer>
+<a id="ftrLogo" class="ctsMove" href="#"><img src="images_common/ftr_logo_w.png" alt="STAND BY ME ドラえもん 2"/></a>
+<img id="cr" src="images_common/cr_w.png" alt="©Fujiko Pro / 2020 STAND BY ME Doraemon 2 Film Partners"/>
+</footer>
+<!--↑↑↑各ページ共通↑↑↑-->
+
+
+</article>
+
+<!--ポップアップ系-->
+<div id="popupBG"></div>
+
+<!--前プレ
+<div class="popup" id="maeWin">
+<div class="popupWrap" id="maeWinWrap">
+<img class="popupImg" src="images_common/mae.jpg" alt=""/>
+<a class="maeBTN fade" href="https://theater.toho.co.jp/toho_theaterlist/doraemon-3d-2.html" target="_blank"><img src="images_common/mae_btn.png" alt="劇場リスト"/></a>
+</div>
+<img class="popupClose" src="images_common/close.png" alt=""/>
+</div>-->
+
+</body>
+</html>
